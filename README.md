@@ -382,7 +382,7 @@ FROM PEDIDOSCAB
 **obs:** *O campo deve ser **nvarchar(1000)**, contendo a observação do pedido.* <br />
 **codRota:** *O campo deve ser **inteiro**, contendo o codigo da rota do pedido.* <br /><br />
 
-**Se o campo codigo do pedido for inteiro então o campo codPedidoCab e obrigatorio, se não o campo numDoc e obrigatorio.** <br />
+**Se o campo codigo do pedido for inteiro então o campo codPedidoCab e obrigatorio, se não, o campo numDoc e obrigatorio.** <br />
 
 > ### View de itens dos pedidos WMS_PEDIDOSITEM
 
